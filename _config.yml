@@ -1,9 +1,9 @@
 # Site settings
 title: Hanyu's Blog
 SEOTitle: 涵宇的博客 | Hanyu's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-ios10.jpg
 email: chenhy19980116@gmail.com
-description: "I will never look back."
+description: "Nothing is important but eating and sleeping"
 keyword: "Hanyu, Hanyu's Blog, 涵宇的博客, HanyuChen"
 url: "http://Hanyu-Chen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/Hanyu-Chen/Hanyu-Chen.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I will never look back!"
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -99,14 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书",
+        href: "http://www.jianshu.com/"
     },{
         title: "Apple",
-        href: "https://apple.com"
+        href: "https://apple.com.cn"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
