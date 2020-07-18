@@ -56,18 +56,18 @@ kramdown:
 
 
 # 评论系统
-Disqus（https://disqus.com/）
-disqus_username: ChenHanyu1
+# Disqus（https://disqus.com/）
+# disqus_username: ChenHanyu1
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: Iv1.a56004f0241904bb                            #生成的clientID
-  clientSecret: fdb35405f9baec9c5c80cedc6696c8b73fa343af    #生成的clientSecret
-  repo: hanyu-chen.github.io    #仓库名称
-  owner: Hanyu-Chen    #github用户名
-  admin: Hanyu-Chen
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: Iv1.a56004f0241904bb                            #生成的clientID
+#  clientSecret: fdb35405f9baec9c5c80cedc6696c8b73fa343af    #生成的clientSecret
+#  repo: hanyu-chen.github.io    #仓库名称
+#  owner: Hanyu-Chen    #github用户名
+#  admin: Hanyu-Chen
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
