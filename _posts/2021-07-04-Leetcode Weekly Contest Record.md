@@ -34,4 +34,4 @@ public int quickly_pow(long base, long pow) {
 }
 ```
 
-My performace is not really good, even the worst one in these weeks. Maybe I need more consideration before doing each problems, so that l can save much time on debugging the algorithm.
+My performace of this contest is not really good, even the worst one in these weeks. Maybe I need more consideration before doing each problems, so that l can save much time on debugging the algorithm.
