@@ -98,7 +98,7 @@ service-worker: true
 
 
 # Friends
-Other Links: [
+friends: [
     {
         title: "LinkedIn",
         href: "https://www.linkedin.com/in/hanyu-chen-bu/"
