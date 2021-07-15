@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
 github_username:    Hanyu-Chen
-linkedin_username:    hanyu-chen-bu
+# linkedin_username:    hanyu-chen-bu
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -98,15 +98,12 @@ service-worker: true
 
 
 # Friends
-friends: [
+Other Links: [
     {
-        title: "简书",
-        href: "http://www.jianshu.com/"
+        title: "LinkedIn",
+        href: "https://www.linkedin.com/in/hanyu-chen-bu/"
     },{
-        title: "Apple",
-        href: "https://apple.com.cn"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "CV",
+        href: "https://drive.google.com/file/d/1LJ4y5p8VyEL9xASSkuk_LZckYqjT3IwG/view?usp=sharing"
     }
 ]
