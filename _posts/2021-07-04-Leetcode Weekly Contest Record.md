@@ -7,14 +7,14 @@ author:     Hanyu Chen
 header-img: img/post-bg-miui6.jpg
 catalog: true
 tags:
-    - Internship
+    - Leetcode
 ---
 
 ## Weekly Contest 248
 
 The first problem is too easy to write the solution.
 
-This week I learned a new method to get the power calculation in $O(lgN)$ time complexity. In this week's contest, the third problem is to get $20^{n}$ when $n$ is extremely large (less than $10^{15}$).
+This week I learned a new method to get the power calculation in $$O(lgN)$$ time complexity. In this week's contest, the third problem is to get $$20^{n}$$ when $$n$$ is extremely large (less than $$10^{15}$$).
 
 The code could be constructed as below:
 
