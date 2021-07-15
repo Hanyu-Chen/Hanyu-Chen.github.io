@@ -100,10 +100,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "LinkedIn",
-        href: "https://www.linkedin.com/in/hanyu-chen-bu/"
-    },{
         title: "CV",
         href: "https://drive.google.com/file/d/1LJ4y5p8VyEL9xASSkuk_LZckYqjT3IwG/view?usp=sharing"
+    }, {
+        title: "Leetcode Profile",
+        href: "https://leetcode-cn.com/u/hanyu-chen/",
     }
 ]
